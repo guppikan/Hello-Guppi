@@ -9,3 +9,5 @@ This is my day and world will follow me.
 
 
 DEC 1: Life is awesome
+
+DEC 2 : Weather is very cold today 
