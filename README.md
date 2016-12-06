@@ -13,4 +13,7 @@ DEC 1: Life is awesome
 DEC 2 : Weather is very cold today 
 
 
-DEC % : officailly started working on RFST
+DEC 5 : officailly started working on RFST
+
+
+DEC6 : Designing Automation scenarios for RFST
