@@ -17,3 +17,7 @@ DEC 5 : officailly started working on RFST
 
 
 DEC6 : Designing Automation scenarios for RFST
+
+
+
+DEC 7: Call with Amit and sharing plan with Assembla
