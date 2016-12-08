@@ -21,3 +21,5 @@ DEC6 : Designing Automation scenarios for RFST
 
 
 DEC 7: Call with Amit and sharing plan with Assembla
+
+DEC 8 : Started Roof Demolition 
