@@ -25,3 +25,5 @@ DEC 7: Call with Amit and sharing plan with Assembla
 DEC 8 : Started Roof Demolition 
 
 DEC 9 : new Test Plan documentation for Roofstock
+
+DEC 12 : wow , what is weather outside 
