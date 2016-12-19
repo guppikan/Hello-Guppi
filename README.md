@@ -27,3 +27,5 @@ DEC 8 : Started Roof Demolition
 DEC 9 : new Test Plan documentation for Roofstock
 
 DEC 12 : wow , what is weather outside 
+
+DEC 19: Monday, planning on automation for home page 
