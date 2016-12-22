@@ -31,3 +31,5 @@ DEC 12 : wow , what is weather outside
 DEC 19: Monday, planning on automation for home page 
 
 DEC 21: Scenario devlopment for Home page is in progress
+
+DEC 22: Home page Automation scenario in progress
