@@ -33,3 +33,5 @@ DEC 19: Monday, planning on automation for home page
 DEC 21: Scenario devlopment for Home page is in progress
 
 DEC 22: Home page Automation scenario in progress
+
+DEC 23 : Last day of 2016 in office, hope 2017 goes all well as planned :)
