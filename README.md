@@ -37,3 +37,6 @@ DEC 22: Home page Automation scenario in progress
 DEC 23 : Last day of 2016 in office, hope 2017 goes all well as planned :)
 
 JAN 02: New year , new hope, new beginning ...2017 is my hukum 
+
+
+JAN 09: completed Home page automation , now working on Browse roof 
