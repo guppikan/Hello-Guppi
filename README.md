@@ -40,3 +40,6 @@ JAN 02: New year , new hope, new beginning ...2017 is my hukum
 
 
 JAN 09: completed Home page automation , now working on Browse roof 
+
+FEB 01: Automation demo recording to has been uploaded in assembla and we have call with Amit today 
+
