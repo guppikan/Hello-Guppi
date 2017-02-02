@@ -20,11 +20,11 @@ DEC6 : Designing Automation scenarios for RFST
 
 
 
-DEC 7: Call with Amit and sharing plan with Assembla
+DEC 7: Call with Amit and sharing plan 
 
-DEC 8 : Started Roof Demolition 
+DEC 8 : Started R Demolition 
 
-DEC 9 : new Test Plan documentation for Roofstock
+DEC 9 : new Test Plan documentation for 
 
 DEC 12 : wow , what is weather outside 
 
@@ -32,14 +32,15 @@ DEC 19: Monday, planning on automation for home page
 
 DEC 21: Scenario devlopment for Home page is in progress
 
-DEC 22: Home page Automation scenario in progress
+DEC 22: Home Automation scenario in progress
 
 DEC 23 : Last day of 2016 in office, hope 2017 goes all well as planned :)
 
 JAN 02: New year , new hope, new beginning ...2017 is my hukum 
 
 
-JAN 09: completed Home page automation , now working on Browse roof 
+JAN 09: completed Home automation , now working 
 
-FEB 01: Automation demo recording to has been uploaded in assembla and we have call with Amit today 
+FEB 01: Automation demo recording to has been uploaded in assembla and we have call with A today 
+FEB 02: looking at chrome feasability for auto
 
