@@ -41,7 +41,7 @@ JAN 02: New year , new hope, new beginning ...2017 is my hukum
 
 JAN 09: completed Home automation , now working 
 
-FEB 01: Automation demo recording to has been uploaded in assembla and we have call with A today 
+FEB 01: Automation demo recording to has been uploaded in assembla and we have call with A today
 
 FEB 02: looking at chrome feasability for auto
 
@@ -60,3 +60,9 @@ DEC07 : time is near
 
 DEC13: new regression
 DEC 14 : agent test
+
+
+********************************************************************************************************************
+
+
+HAPPY NEW YEAR 
